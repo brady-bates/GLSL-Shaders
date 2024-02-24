@@ -1,2 +1,2 @@
 # GLSL-Shaders
-GLSL shaders
+This is a collection of GLSL Shaders that I made and modified.
